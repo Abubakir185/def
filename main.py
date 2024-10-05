@@ -1,16 +1,4 @@
-def arif(son):
-    return son * 3 + 4
-
-print(arif(4))
-
-name = input("ism: ")
-
-def salomlash(ism):
-    print(f"salom {ism}")
-
-salomlash(name)
-
-
+# 1
 jumla = input("Jumla kiriting: ")
 
 def uzunlik(matn):
@@ -25,7 +13,7 @@ print(f"jumla uzunligi {uzunlik(jumla)}")
 
 
 
-
+# 2
 faktlar = {
     1984: "Yer sharining eng katta vulqoni otilgan",
     1876: "Telefonning ixtiro qilingan",
